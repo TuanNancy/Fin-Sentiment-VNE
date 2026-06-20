@@ -78,12 +78,12 @@ FinSentiment/
 
 ## Yêu cầu
 
-| Thành phần   | Phiên bản       |
-|--------------|-----------------|
-| Node.js      | >= 18           |
-| Python       | >= 3.11         |
-| pip          | Latest          |
-| npm          | >= 9            |
+| Thành phần | Phiên bản |
+| ---------- | --------- |
+| Node.js    | >= 18     |
+| Python     | >= 3.11   |
+| pip        | Latest    |
+| npm        | >= 9      |
 
 ## Cài đặt
 
@@ -223,11 +223,11 @@ curl http://localhost:5000/health
 
 Ba mô hình được đánh giá:
 
-| Mô hình              | Accuracy | Weighted F1 |
-|----------------------|----------|-------------|
-| Linear SVM           | 0.6981   | 0.6988      |
-| **Logistic Regression** | **0.7048** | **0.7057** |
-| Multinomial NB       | 0.6867   | 0.6880      |
+| Mô hình                 | Accuracy   | Weighted F1 |
+| ----------------------- | ---------- | ----------- |
+| Linear SVM              | 0.6981     | 0.6988      |
+| **Logistic Regression** | **0.7048** | **0.7057**  |
+| Multinomial NB          | 0.6867     | 0.6880      |
 
 Mô hình tốt nhất: **Logistic Regression** (chọn dựa trên weighted F1-score).
 
@@ -288,6 +288,3 @@ Mọi đóng góp đều được đánh giá cao. Để đóng góp:
 ## License
 
 [MIT](LICENSE)
-#   F i n - S e n t i m e n t - V N E  
- #   F i n - S e n t i m e n t - V N E  
- 
